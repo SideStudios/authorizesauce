@@ -1,10 +1,10 @@
 Authorize Sauce
 ===============
 
-.. image:: https://img.shields.io/travis/jeffschenck/authorizesauce.svg
-   :target: https://travis-ci.org/jeffschenck/authorizesauce
-.. image:: https://img.shields.io/codecov/c/github/jeffschenck/authorizesauce.svg
-   :target: https://codecov.io/github/jeffschenck/authorizesauce
+.. image:: https://img.shields.io/travis/drewisme/authorizesauce.svg
+   :target: https://travis-ci.org/drewisme/authorizesauce
+.. image:: https://img.shields.io/codecov/c/github/drewisme/authorizesauce.svg
+   :target: https://codecov.io/github/drewisme/authorizesauce
 .. image:: https://img.shields.io/pypi/pyversions/AuthorizeSauce.svg
    :target: https://pypi.python.org/pypi/AuthorizeSauce
 .. image:: https://img.shields.io/pypi/l/AuthorizeSauce.svg
