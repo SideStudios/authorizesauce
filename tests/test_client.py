@@ -152,7 +152,7 @@ class ClientTests(TestCase):
         # Test with amount
         result = transaction.credit('1111', 10)
         self.assertEqual(self.client._transaction.credit.call_args,
-            (('1111', '123', 10), {}))
+            (('1111', '123', 10), {'address': None}))
         self.assertTrue(isinstance(result, AuthorizeTransaction))
         self.assertEqual(result.uid, '2171062816')
 
